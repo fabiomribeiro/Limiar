@@ -1,9 +1,9 @@
 ### **Personagens**
-1. Croma
-2. Davi
-3. Guizão
-4. Nando
-5. Rapha
+1. Croma - Ladino 
+2. Davi - Campeão
+3. Guizão - Guardião
+4. Nando - Oráculo
+5. Rapha - Mago
 
 ### Plots que o grupo está investigando
 - s
